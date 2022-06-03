@@ -4,4 +4,4 @@
 
 * Type : Assignment
 
-* Institude : C-DAC hydrabad
+* Institute : C-DAC hyderabad
